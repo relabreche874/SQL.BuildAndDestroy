@@ -1,0 +1,1 @@
+select city from students where city != 'Philadelphia';
